@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "942244397999",
+    "project_id": "chata-e393f",
+    "storage_bucket": "chata-e393f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942244397999:android:0233d1ec94c5119448655a",
+        "android_client_info": {
+          "package_name": "com.example.simple_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942244397999-3idpr0s9vhi09b9jsq6qp5i24gtk02sl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simple_chat_app",
+            "certificate_hash": "806f1ff1671a5954341f5f864b828505ae1caaf8"
+          }
+        },
+        {
+          "client_id": "942244397999-4tnbbel3sdoje97bshtesd4kmvrtbfsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0NhxYeI16f9tUx_59il4secN3cwU3uBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942244397999-4tnbbel3sdoje97bshtesd4kmvrtbfsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
